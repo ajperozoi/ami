@@ -1,13 +1,13 @@
 {
     "name": "ajperozoi/ami",
     "type": "library",
-    "description": "Provide asterisk ami to laravel frok from Enniel Ami, im trying to use on laravel 7 and php>7.0",
+    "description": "Provide asterisk ami to laravel frok from Enniel Ami https://github.com/Enniel/Ami, im trying to use on laravel 7 and php>7.0",
     "keywords": [
         "Enniel",
         "Ami",
         "Asterisk"
     ],
-    "homepage": "https://github.com/Enniel/Ami",
+    "homepage": "https://github.com/ajperozoi/ami",
     "license": "MIT",
     "authors": [
         {
@@ -41,12 +41,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Ajperozoi\\Ami\\": "src"
+            "Enniel\\Ami\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Ajperozoi\\Ami\\Tests\\": "tests"
+            "Enniel\\Ami\\Tests\\": "tests"
         }
     },
     "scripts": {
