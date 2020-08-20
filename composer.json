@@ -19,7 +19,7 @@
         "ext-mbstring": "*",
         "illuminate/support": "~5.1",
         "illuminate/console": "~5.1",
-        "illuminate/events": "~5.1",
+        "illuminate/events": "^5.1",
         "illuminate/contracts": "~5.1",
         "react/dns": "~0.4.3",
         "react/stream": "~0.4.6",
