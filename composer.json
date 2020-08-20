@@ -1,7 +1,7 @@
 {
-    "name": "enniel/ami",
+    "name": "ajperozoi/ami",
     "type": "library",
-    "description": "Provide asterisk ami to laravel",
+    "description": "Provide asterisk ami to laravel frok from Enniel Ami, im trying to use on laravel 7 and php>7.0",
     "keywords": [
         "Enniel",
         "Ami",
@@ -36,12 +36,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Enniel\\Ami\\": "src"
+            "Ajperozoi\\Ami\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Enniel\\Ami\\Tests\\": "tests"
+            "Ajperozoi\\Ami\\Tests\\": "tests"
         }
     },
     "scripts": {
